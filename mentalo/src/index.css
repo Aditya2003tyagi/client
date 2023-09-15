@@ -9,9 +9,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+#head{
+  display: flex;
+}
+#nav{
+  
+  width: 100%
+}
+#heading{
+  margin-top: 10px;
+  width: 150px;
+  font-weight: bold;
+  color: chocolate;
+  background-color: blanchedalmond;
+  font-size: larger;
 }
